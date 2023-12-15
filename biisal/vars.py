@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-bot_name = "Bɪɪsᴀʟ Fɪʟᴇ2Lɪɴᴋ Bᴏᴛ"
-bisal_channel = "https://telegram.me/bisal_files"
-bisal_grp = "https://t.me/+PA8OPL2Zglk3MDM1"
+bot_name = "FILEtoStream_FreeOnNet_Bot"
+bisal_channel = "https://t.me/Latest_movies_freeOnNet"
+bisal_grp = "https://t.me/EX_MR_R"
 
 class Var(object):
     MULTI_CLIENT = False
